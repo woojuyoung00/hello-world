@@ -1,6 +1,6 @@
 # hello-world
 ## About Me
-- **Name:** Gildong Hong
-- **Major:** Composition
+- **Name:** Juyoung Woo
+- **Major:** Media Communication 
 ## A Piece of Music I Love
-*Symphony No. 5* by Ludwig van Beethoven
+For lovers who hesitate by Jannabi 
